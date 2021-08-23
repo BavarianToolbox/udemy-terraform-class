@@ -7,3 +7,13 @@
 
 # tf variable files
 *.tfvars
+
+# tf CLI config files
+.terraformrc
+terraform.rc
+
+# Mac/OSX system file (folder metadata)
+.DS_Store
+
+# tf crash logs
+crash.log
